@@ -14,7 +14,7 @@ class Settings extends StatelessWidget {
         ),
         backgroundColor: Colors.white,
         title: Text(
-          'Settings11',
+          'Setting',
           style: TextStyle(color: Colors.black),
         ),
       ),
